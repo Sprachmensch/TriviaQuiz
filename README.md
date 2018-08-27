@@ -1,1 +1,2 @@
-# TriviaQuiz Capstone Project for the Udacity Android Nanodegree
+# TriviaQuiz
+My capstone Project for the Udacity Android Nanodegree
