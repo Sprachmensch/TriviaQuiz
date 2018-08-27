@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TriviaQuiz</string>
+    <string name="title_activity_loose">Loose</string>
+    <string name="you_loose">YOU LOOSE!</string>
+    <string name="appwidget_text">Latest\nscore:</string>
+    <string name="appwidget_textScore">15</string>
+    <string name="add_widget">Add widget</string>
+    <string name="placeholder">placeholder</string>
+    <string name="about_text">ABOUT\n\nTrivia Data from Open Trivia DB - opentdb.com\n\nUsed Libraries:\nButterknife\ncom.jakewharton:butterknife\n\nTimber\n
+    com.jakewharton.timber:timber\n\nKonfetti\nnl.dionsegijn:konfetti:1.1.2\n\nVolley\n com.android.volley:volley\n\n
+    GSON\ncom.google.code.gson</string>
+    <string name="gps_logout">Logout</string>
+    <string name="gps_login">Login - Google Play Service</string>
+    <string name="title_score">TRIVIA QUIZ\n\nScore: %1$s</string>
+    <string name="about_main">ABOUT</string>
+    <string name="start_main">START THE GAME</string>
+    <string name="game_gameover">!!! WRONG !!!\n\nThe correct answer is:\n</string>
+    <string name="quiz_correctBtn">CORRECT :D</string>
+</resources>
